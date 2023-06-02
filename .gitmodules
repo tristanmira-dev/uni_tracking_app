@@ -1,0 +1,6 @@
+[submodule "uni_track_backend"]
+	path = uni_track_backend
+	url = git@github.com:tristanmira-dev/uni_track_backend.git
+[submodule "uni_track_frontend"]
+	path = uni_track_frontend
+	url = git@github.com:tristanmira-dev/uni_track_frontend.git
